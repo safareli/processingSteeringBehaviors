@@ -15,6 +15,13 @@ public class MApplet extends PApplet{
         Holder.setPApplet(this);
     }
     public Boolean isMouseIn(){
+
         return !(mouseX < 10 || mouseX > width - 10 || mouseY < 10 || mouseY > height - 10);
+    }
+    @Override
+    public void background(int rgba){
+        strokeWeight(0);
+        fill(rgba);
+        rect(0,0,width,height);
     }
 }

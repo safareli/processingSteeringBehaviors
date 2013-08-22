@@ -4,15 +4,17 @@
     <list default="true" id="179b2ccb-6800-4a90-a659-0aaee0df2dec" name="Default" comment="" />
     <ignored path="flow field.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374320142004" ignored="false" />
-    <file path="/fragment.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374296477852" ignored="false" />
-    <file path="/Thing.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374319328702" ignored="false" />
+    <file path="/Main.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374783822596" ignored="false" />
+    <file path="/fragment.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374783723302" ignored="false" />
+    <file path="/Thing.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374694511463" ignored="false" />
     <file path="/FlowField.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374304090650" ignored="false" />
-    <file path="/Color.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374319617891" ignored="false" />
+    <file path="/Color.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374396153070" ignored="false" />
     <file path="/RunApp.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374296416097" ignored="false" />
     <file path="/Number.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374319205114" ignored="false" />
     <file path="/P.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374301290519" ignored="false" />
     <file path="/BaseMain.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374320046867" ignored="false" />
+    <file path="/Dummy.txt" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1375041667569" ignored="false" />
+    <file path="/MApplet.java" changelist="179b2ccb-6800-4a90-a659-0aaee0df2dec" time="1374692576148" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -64,6 +65,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -73,37 +75,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Thing.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Thing.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Thing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="41" selection-start="4257" selection-end="4257" vertical-scroll-proportion="1.5572519">
+            <state line="238" column="19" selection-start="7876" selection-end="7876" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Number.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/li/safare/processing/separation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="28" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Color.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Color.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="21" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
+            <state line="39" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.40263158">
               <folding />
             </state>
           </provider>
@@ -115,6 +99,16 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -129,11 +123,11 @@
         <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Holder.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/staf/FlowField.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Number.java" />
-        <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Color.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/flowfield/Main.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/alignment/Main.java" />
-        <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Thing.java" />
+        <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Color.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/staf/MApplet.java" />
+        <option value="$PROJECT_DIR$/src/li/safare/processing/staf/Thing.java" />
         <option value="$PROJECT_DIR$/src/li/safare/processing/separation/Main.java" />
       </list>
     </option>
@@ -160,11 +154,19 @@
           <State>
             <id>Pattern Validation</id>
           </State>
+          <State>
+            <id>Spelling</id>
+          </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -190,12 +192,21 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files" />
+        <subPane subId="All" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="processingSteeringBehaviors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -208,12 +219,95 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="separation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flowfield" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processingSteeringBehaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Project Files" />
-        <subPane subId="All" />
       </pane>
       <pane id="PackagesPane">
         <subPane />
@@ -225,7 +319,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editor" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="C:/Program Files/processing-2.0/core/library/jogl-all.jar!/" />
@@ -326,8 +420,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -343,7 +437,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17651515" sideWeight="0.6682616" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33173844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33173844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -411,6 +505,18 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="processingSteeringBehaviors" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="processingSteeringBehaviors" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -452,39 +558,14 @@
         <state line="347" column="28" selection-start="12020" selection-end="12032" vertical-scroll-proportion="0.33231708" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Holder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="305" selection-end="312" vertical-scroll-proportion="0.562341">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/FlowField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="292" selection-end="299" vertical-scroll-proportion="0.43256998">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/RunApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="369" selection-end="369" vertical-scroll-proportion="0.43765903">
-          <folding />
-        </state>
+        <state line="14" column="34" selection-start="369" selection-end="369" vertical-scroll-proportion="0.43765903" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/li/safare/processing/alignment/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="411" selection-end="411" vertical-scroll-proportion="0.34605598">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/MApplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="280" selection-end="285" vertical-scroll-proportion="0.5164557">
+        <state line="15" column="28" selection-start="411" selection-end="411" vertical-scroll-proportion="0.31114808">
           <folding />
         </state>
       </provider>
@@ -498,28 +579,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
+        <state line="71" column="74" selection-start="2216" selection-end="2216" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/FlowField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="292" selection-end="299" vertical-scroll-proportion="0.259542">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Holder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.47582698">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/MApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="562" selection-end="562" vertical-scroll-proportion="0.95165396">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/separation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="28" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0">
+        <state line="13" column="22" selection-start="303" selection-end="303" vertical-scroll-proportion="0.23627287">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/li/safare/processing/staf/Thing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="41" selection-start="4257" selection-end="4257" vertical-scroll-proportion="1.5572519">
+        <state line="238" column="19" selection-start="7876" selection-end="7876" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/li/safare/processing/separation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.40263158">
           <folding />
         </state>
       </provider>
@@ -583,6 +685,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6775194" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
